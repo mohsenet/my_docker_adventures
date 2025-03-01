@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+
+# C extensions
+*.so
+
+/venv
+/.idea
+
